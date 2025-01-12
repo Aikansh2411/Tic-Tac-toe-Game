@@ -97,3 +97,4 @@ const resetGame = () => {
 
 newGame.addEventListener("click",resetGame);
 resetBtn.addEventListener("click",resetGame);
+
